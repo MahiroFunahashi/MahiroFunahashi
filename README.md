@@ -1,80 +1,43 @@
-Blockchain | Solidity | NFT | ICO | Solana | Ethereum
+### Hi there 👋
 
-Full-stack Blockchain Solution architects and developers with 5+ years of development experience.
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / Blockchain Developer</h1>
+<p align="center"><img align="center" style="width:96%" src="Blockchain-technology.jpg" style = "width: -webkit-fill-available;"/></p>
+<p align="center">
+  <a href="https://github.com/mahiros-tech"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20and%20Blockchain%20developer;8+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+</p>
+With 8+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p> -->
+ <div style="text-align: center;"><h1>My Skills</h1></div>
+  <ul>
+    <li>Front-End: React.js, Angular, Vue.js, Svelte</li>
+    <li>Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs</li>
+    <li>Mobile:React Native, Flutter</li>
+    <li>Database Programming: MySQL, MongoDB, PostgreSQL, MS SQL, SQLite</li>
+    <li>BlockChain: Bitcoin, Ethereum, Ethereum 2.0, Solidity, ERC(BEP)20/721/1155, Stable Coin, Binance, UniSwap(SushiSwap), Staking Pool, Mining Pool, Dapp, Web3.js, Ether.js</li>
+    <li>Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js</li>
+<table>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3772319-3151445.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3772263-3151389.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/djangoproject-2752208-2285025.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-2038872-1720085.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/jasmine-17-1175015.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png" width="100"></td>
+    
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nest-7-282263.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3772085-3151178.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-3629020-3030245.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/bitcoin-2324014-2150500.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ethereum-coin-2024438-1710591.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/git-17-1175218.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-282739.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3628772-3030134.png" width="100"></td>
+  </tr>
+  </table>
 
-Including the crypto exchanges (P2P, CEX & DEX), blockchain forks, tokens creation (ERC-20, ERC-721 NFT), smart contracts, ICO, Defi, and Ethereum.
-
-Additionally, we are skilled with the backend technologies like Node.js, Web3.js, Laravel, MongoDB, Express JS, etc. I do Backend, Frontend, DevOps, and Deployment.
-
-We work full time, enjoy long-term projects, and guarantee attention to detail and respect for deadlines.
-
-Are you looking for someone who will get all your things done perfectly? You have found us already.
-
-Our Blockchain Specialization Areas:
-★ DEXes (like Uniswap, Sushiswap, Pancakeswap, 0x, dYdX, etc);
-★ NFT platforms and marketplaces (Ethereum, BTC, Solana, others);
-★ DeFi platforms (any dApp, Binance Smart Chain, Ethereum, EOS, Tron);
-★ Stock exchanges (like Binance, Coinbase, etc);
-★ Dashboards and graphs;
-★ Wallets (crypto/fiat)
-★ Blockchain block explorers
-★ ICO Application
-★ Token on standards- ERC 20 and ERC 721
-
-★ Web Development for Custom Business Web Applications
-★ Front-end and Back-end Development
-★ Content Management Development
-★ High-End Enterprise Web Applications
-★ Develop Custom RESTFUL API For Mobile Applications
-★ Reputation Management Systems
-★ Review Management Systems
-★ Saas Applications
-★ Blockchain Development
-
-Here is a list of technologies that I use:
-
-★ Solidity Dapp Development
-★ Blockchain- Ethereum and Solana
-★ Node.js
-★ Lamp Stack, Nginx
-★ MySQL, Postgres — data structure, performance tuning
-★ NoSQL: MongoDB, Redis, GCP
-★ Frameworks: Laravel, React, Nextjs, Nuxt, Vue,
-★ Redux, Redux-Saga, Material UI, Typescript
-★ DevOps: AWS, Cloudflare, Digital Ocean, Vultr, Kubernetes, CI/CD Pipelines
-★ HTML, Bootstrap, jQuery, Sass, Gulp, Webpack, etc. — responsive, mobile-friendly websites
-★ Server-side and client-side optimization, web applications performance tuning
-
-Our approach to project execution is as follows:
-
-★ Understanding the project requirements in detail
-★ Wireframing using tools like Blasmiq, InVision, Figma
-★ Project Execution using Project Management Systems like Basecamp, Trello, ASANA, Active Collab, JIRA
-★ The delivery basis on the milestones and ensuring that the milestone is not missed
-★ AGILE Methodology: Making project sprints and delivering them on time
-★ QA Assurance: All the milestones are QA'ed by QA Analyst and test cases can be provided if required
-★ Deployments
-★ Support & Maintenance
-
-10 GOOD PRACTICES I FOLLOW IN CODE MANAGEMENT:
-
-1. Commit early, commit often; every commit provides a rollback position
-2. Inspect changes before committing
-3. Remember the axe-murderer when writing commit messages
-4. While working in a team, must commit your changes – you can’t delegate it
-5. Versioning Database
-6. Making extensive – detailed notes in the check-in comments about why the changes were made
-7. Ensure the working file is from the latest version of the source file
-8. Only Check-out the file being worked upon
-9. Review every change before committing; utilize the diff function!
-10. Use the ignore button for files that should not be committed, consider adding pre-commit filters to prevent the wrong kinds of files (such as accidental check-in of personal user settings docs) from entering the source control
-
-We are a top-rated team - the Mahiros Technology Team - which is ready to deliver a software solution for your product or idea from the discovery and proof of concept to the production and maintenance
-
-If you are looking for a solid, detail-oriented and "DO WHATEVER IT TAKES TO GET THE JOB DONE" kind of persons who never quit, adheres to deadlines, and is as reliable as death and taxes, then get in touch with us.
-
-We are looking forward to working with your exciting projects.
-
-Best Regards,
-
-Mahiros Technology
