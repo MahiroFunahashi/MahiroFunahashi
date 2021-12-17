@@ -5,10 +5,15 @@
 <p align="center">
   <a href="https://github.com/mahiros-tech"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20and%20Blockchain%20developer;8+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
-With 8+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
+Passionate and skilled Blockchain, Full-Stack Developer offering 4 years of relevant experience and a proven track record of success in achieving extraordinary results. <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p> -->
  <div style="text-align: center;"><h1>My Skills</h1></div>
   <ul>
+    <li>DeFi platforms (any dApp, Binance Smart Chain, Ethereum, EOS, Tron)</li>
+    <li>Stock exchanges (like Binance, Coinbase, etc)</li>
+    <li>DEXes (like Uniswap, Sushiswap, Pancakeswap, 0x, dYdX, etc)</li>
+    <li>Blockchain block explorers</li>
+    <li>Ethereum & Solidity, Solana & Rust</li>
     <li>Front-End: React.js, Angular, Vue.js, Svelte</li>
     <li>Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs</li>
     <li>Mobile:React Native, Flutter</li>
