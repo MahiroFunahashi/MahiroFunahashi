@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / Blockchain Developer</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / XRPL, Blockchain Developer</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p> -->
  <div style="text-align: center;"><h1>My Skills</h1></div>
   <ul>
