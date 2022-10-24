@@ -4,6 +4,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p> -->
  <div style="text-align: center;"><h1>My Skills</h1></div>
   <ul>
+    <li>https://xrpl.to</li>
+    <li>https://xrpnft.com</li>
     <li>XRPL, Tokens Lists, Transactions, XLS-20D</li>
     <li>DeFi platforms (any dApp, Binance Smart Chain, Ethereum, EOS, Tron)</li>
     <li>Stock exchanges (like Binance, Coinbase, etc)</li>
