@@ -43,7 +43,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3628772-3030134.png" width="100"></td>
   </tr>
   <tr>
-  	<td><img src="./contribute_20221117.png"></td>
+  	<td colspan="9"><img src="./contribute_20221117.png"></td>
   </tr>
   </table>
 
